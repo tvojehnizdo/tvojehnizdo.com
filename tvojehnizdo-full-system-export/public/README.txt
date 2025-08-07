@@ -1,0 +1,1 @@
+Statické soubory – favicon, obrázky, atd.
