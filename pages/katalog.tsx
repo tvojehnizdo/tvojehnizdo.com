@@ -1,0 +1,1 @@
+// TODO: Přehled domů a galerie
